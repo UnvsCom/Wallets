@@ -40,7 +40,7 @@ You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.
 
 ✪ 'COINMINER' ANTIVIRUS ISSUES - DOWNLOAD ISSUES SIDENOTE
 --------
-Sometimes operating system don't like supporting cryptocurrency software due to their mining scripts and abilities.
+Sometimes operating systems don't like supporting cryptocurrency software due to their mining scripts and abilities.
 
 With that being said our download files/folders sometimes provide false Windows Defender virus alerts due to them containing a **Coin Miner**
 
