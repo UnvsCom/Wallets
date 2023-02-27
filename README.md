@@ -18,7 +18,7 @@ Copyright (c) 2023 UNVS Developers.
 **COMPILED DESKTOP WALLET RELEASES**
 ------------------------------------
 
-This folder contains our most recent compiled Windows 32bit Wallet & Linux Wallet releases.
+This repo contains our **Most Recent** compiled Windows 32bit Wallet & Linux Wallet releases.
 
 These have all main dependancies compiled within, therefore should run as normal without any additional dependancies being required on your system, apart from Linux QT Runtime being required (see below).
 
