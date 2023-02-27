@@ -36,6 +36,6 @@ sudo apt-get install libqtgui4
 
 Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our official IPs stated on our website at [UNVS.com/wallet-guide](https://www.unvs.com/wallet-guide)
 
-You can unzip our compressed Tar.gz folders by utilizing: https://www.7-zip.org/download.html
+You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.org/download.html
 
 
