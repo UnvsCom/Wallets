@@ -73,6 +73,14 @@ Then you should be able to download and install freely. You can even activate Wi
 
 For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wallet-Releases/blob/main/BYPASS-DEFENDER.pdf
 
+Also remember to review our Wallet Guides at:
+
+https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-COMMANDS.md
+
+https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-RELEASES.md
+
+
+
 
 **THAT BEING SAID, USE AT YOUR OWN RISK! THIS IS HIGHLY EXPERIMENTAL CRYPTOCURRENCY SOFTWARE FOR DEVELOPERS.
 PROVIDED WITHOUT ANY WARRANTY OR GUARANTEE AND WITHOUT ANY LIABILITY.**
