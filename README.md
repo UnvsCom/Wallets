@@ -51,8 +51,6 @@ If you believe that a file you downloaded is genuine, you can bypass the **“Op
 
 **Workaround Method 1. Temporarily Disable Windows Defender**
 
-If you believe that the file you downloaded is genuine, you can bypass the “Operation did not complete successfully because the file contains a virus” warning. To do this, you’ll have to temporarily disable Windows Defender, and open the file while it’s turned off.
-
 **WINDOWS 11.**
 Go to Windows 'Start' menu & choose Settings, or alternatively use the Windows + I shortcut.
 
