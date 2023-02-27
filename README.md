@@ -34,5 +34,5 @@ You need the Qt4 run-time libraries to run the UNVS-Qt wallet program. On Debian
 sudo apt-get install libqtgui4
 ```
 
-Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our official IPs.
+Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our official IPs stated on our website at Unvs.com/Wallet.
 
