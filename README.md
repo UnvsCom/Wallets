@@ -50,13 +50,16 @@ If you believe that a file you downloaded is genuine, you can bypass the **“Op
 
 
 ✪ **Workaround Method 1. Temporarily Disable Windows Defender** ✪ 
-            
+<br>            
 **WINDOWS 11.**
 Go to Windows 'Start' menu & choose Settings, or alternatively use the Windows + I shortcut.
-
+<br> 
 On the left click on 'Privacy & Security'
+
 At the top click 'Windows Security'
+
 Then click on 'Virus & threat protection'
+
 
 First, click on the Manage settings link under the Virus & threat protection settings header. 
 
