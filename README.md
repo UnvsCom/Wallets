@@ -23,10 +23,12 @@ This repo contains our **Most Recent** compiled Windows 32bit Wallet & Linux Wal
 These have all main dependancies compiled within, therefore should run as normal without any additional dependancies being required on your system, apart from Linux QT Runtime being required (see below).
 
 **FOR WINDOWS 32BIT WALLET:**
+
 https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-win32-setup.exe
 Install and allow through firewall if prompted.
 
 **FOR LINUX WALLET:**
+
 https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-qt-linux-setup
 You need the Qt4 run-time libraries to run the UNVS-Qt wallet program. On Debian or Ubuntu enter via terminal:
 
