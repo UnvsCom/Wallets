@@ -52,7 +52,7 @@ If you believe that a file you downloaded is genuine, you can bypass the **“Op
 ✪ **Workaround Method 1. Temporarily Disable Windows Defender** ✪ 
 <br>            
 **WINDOWS 10 / 11.**
-1) Go to Windows **'Start'** menu & choose **Settings**, or alternatively **use the Windows + I shortcut**.
+1) Go to Windows **'Start'** menu & choose **Settings**, or alternatively **use the Windows + i shortcut**.
 
 
 2) On the left click on **'Privacy & Security'**
