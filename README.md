@@ -38,8 +38,33 @@ Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not
 
 You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.org/download.html
 
-NOTE
+ANTIVIRUS ISSUES - DOWNLOAD ISSUES SIDENOTE
 --------
-Sometimes our download files/folders provide false virus alerts due to them containing a **Coin Miner**
+Sometimes operating system don't like supporting cryptocurrency software due to the mining nature.
+
+With that being said our download files/folders sometimes provide false Windows Defender virus alerts due to them containing a **Coin Miner**
+
+When this occurs Windows can either refuse to install the Wallet or even fully refuse to allow a download of the tar.gz or installion file.
+
+If you believe that a file you downloaded is genuine, you can bypass the **“Operation did not complete successfully because the file contains a virus”** warning. To do this, you’ll have to temporarily disable Windows Defender, and open the file while it’s turned off.
+
+
+**Workaround Method 1. Temporarily Disable Windows Defender**
+
+If you believe that the file you downloaded is genuine, you can bypass the “Operation did not complete successfully because the file contains a virus” warning. To do this, you’ll have to temporarily disable Windows Defender, and open the file while it’s turned off.
+
+**WINDOWS 11.**
+Go to Windows 'Start' menu & choose Settings, or alternatively use the Windows + I shortcut.
+
+On the left click on 'Privacy & Security'
+At the top click 'Windows Security'
+Then click on 'Virus & threat protection'
+
+First, click on the Manage settings link under the Virus & threat protection settings header. 
+
+You’ll be redirected to a new page. Here, click on the Real-time protection toggle to turn off Windows Defender.
+
+
+**That being said use at your own risk - Highly developmental software.**
 
 
