@@ -44,7 +44,7 @@ Sometimes operating system don't like supporting cryptocurrency software due to 
 
 With that being said our download files/folders sometimes provide false Windows Defender virus alerts due to them containing a **Coin Miner**
 
-When this occurs Windows can either refuse to install the Wallet or even fully refuse to allow a download of the tar.gz or installion file.
+When this occurs Windows can either refuse to install the Wallet or even fully refuse to allow a download of the tar.gz or installation file.
 
 If you believe that a file you downloaded is genuine, you can bypass the **“Operation did not complete successfully because the file contains a virus”** warning. To do this, you’ll have to temporarily disable Windows Defender, and open the file while it’s turned off.
 
