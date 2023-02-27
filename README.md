@@ -18,9 +18,9 @@ Copyright (c) 2023 UNVS Developers.
 **COMPILED DESKTOP WALLET RELEASES**
 ------------------------------------
 
-This folder contains our compiled Windows 32bit Wallet & Linux Wallet releases.
+This folder contains our most recent compiled Windows 32bit Wallet & Linux Wallet releases.
 
-These have all dependancies compiled within, therefore should run as normal without any additional dependancies being required on your system, apart from Linux QT runtime being required (see below).
+These have all main dependancies compiled within, therefore should run as normal without any additional dependancies being required on your system, apart from Linux QT Runtime being required (see below).
 
 **FOR WINDOWS 32BIT WALLET:**
 
@@ -34,4 +34,5 @@ You need the Qt4 run-time libraries to run the UNVS-Qt wallet program. On Debian
 sudo apt-get install libqtgui4
 ```
 
+Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our official IPs.
 
