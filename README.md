@@ -38,4 +38,8 @@ Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not
 
 You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.org/download.html
 
+NOTE
+--------
+Sometimes our download files/folders provide false virus alerts due to them containing a **Coin Miner**
+
 
