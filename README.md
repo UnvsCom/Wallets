@@ -84,7 +84,12 @@ https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-COMMANDS.md
 
 https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-RELEASES.md
 
+✪ SPEEDING UP CHAIN SYNC ✪
+----------------------------------------------
+It may be possible to jump ahead with your current fresh wallet install sync, by using our Official zipped archive of our chain.
+We will endevour to update this on a regular basis. The archive can be found here:
 
+https://github.com/UnvsCom/Chain-Archive-Snapshot-ZIP
 
 
 **THAT BEING SAID, USE AT YOUR OWN RISK! THIS IS HIGHLY EXPERIMENTAL CRYPTOCURRENCY SOFTWARE FOR DEVELOPERS.
