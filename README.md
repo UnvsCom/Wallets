@@ -39,6 +39,8 @@ https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-qt-linux-setup
 ✪ **On Linux, YOU NEED the Qt4 run-time libraries** to run the UNVS-Qt wallet program. On Debian or Ubuntu enter via terminal:
 
 ```
+sudo add-apt-repository ppa:rock-core/qt4
+
 sudo apt-get install libqtgui4
 ```
 
