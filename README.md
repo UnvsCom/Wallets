@@ -82,9 +82,9 @@ For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wa
 
 ✪ Also remember to review our Wallet Guides ✪
 ----------------------------------------------
-https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-COMMANDS.md
+https://github.com/UnvsCom/unvs/blob/v1.4/WALLET-COMMANDS.md
 
-https://github.com/UnvsCom/unvs/blob/v1.2/WALLET-RELEASES.md
+https://github.com/UnvsCom/unvs/blob/v1.4/WALLET-RELEASES.md
 
 ✪ SPEEDING UP CHAIN SYNC ✪
 ----------------------------------------------
