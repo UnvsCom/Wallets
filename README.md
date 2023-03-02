@@ -43,7 +43,7 @@ sudo add-apt-repository ppa:rock-core/qt4
 
 sudo apt-get install libqtgui4
 ```
-(Sidenote: We are currently building our QT5 compatible Wallet, So currently only works on Ubuntu 20.40 Version & Earlier releases.) 
+✪ (Sidenote: We are currently building our QT5 compatible Wallet, So currently only works on Ubuntu 20.40 Version & Earlier releases.) ✪
 
 Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our OFFICIAL IPs stated on our website at [UNVS.com/wallet-guide](https://www.unvs.com/wallet-guide)
 
