@@ -36,13 +36,14 @@ Install and allow through firewall if prompted.
 
 https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-qt-linux-setup
 
-✪ **On Linux, YOU NEED the Qt4 run-time libraries** to run the UNVS-Qt wallet program. On Debian or Ubuntu enter via terminal:
+✪ **On Linux 20.04 (Max Version), YOU NEED the Qt4 run-time libraries** to run the UNVS-Qt wallet program. On Debian or Ubuntu enter via terminal:
 
 ```
 sudo add-apt-repository ppa:rock-core/qt4
 
 sudo apt-get install libqtgui4
 ```
+(Sidenote: We are currently building our QT5 compatible Wallet, So currently only works on Ubuntu 20.40 Version & Earlier releases.) 
 
 Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our OFFICIAL IPs stated on our website at [UNVS.com/wallet-guide](https://www.unvs.com/wallet-guide)
 
