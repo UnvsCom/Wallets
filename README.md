@@ -1,7 +1,7 @@
 UNVS
 =============
 
-<b>✪ FOR ANTIVIRUS ISSUES BLOCKING INSTALL OF MINER, SEE BOTTOM OF GUIDE TO REMEDY ✪
+<b>✪ FOR ANTIVIRUS ISSUES BLOCKING INSTALL OF MINER, SEE BELOW TO REMEDY ✪
 
 
 PLEASE NOTE THIS IS STILL A HIGHLY EXPERIMENTAL PROJECT. 
@@ -11,9 +11,7 @@ PLEASE NOTE THIS IS STILL A HIGHLY EXPERIMENTAL PROJECT.
 **DESKTOP WALLET RELEASES**
 ------------------------------------
 
-This repo contains our **Most Recent** compiled Windows 32bit Wallet & Linux Wallet releases.
-
-These have all main dependancies compiled within, therefore should run as normal without any additional dependancies being required on your system, apart from Linux QT Runtime being required (see below).
+These releases have all dependancies compiled within, therefore should run as normal without additional dependancies being required on your system, apart from Linux QT Runtime being required (see below).
 
 **✪✪ FOR WINDOWS 32BIT WALLET ✪✪**
 
