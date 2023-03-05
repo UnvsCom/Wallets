@@ -6,16 +6,6 @@ UNVS
 
 PLEASE NOTE THIS IS STILL A HIGHLY EXPERIMENTAL PROJECT. 
 ----------------
-WE ARE STILL IN DEVELOPMENT STAGES. USE AT YOUR OWN RISK. WE ACCEPT NO LIABILITY IN ANY INSTANCE & NO GUARANTEE NOR WARRANTY IS PROVIDED. DEVELOPED FOR ENTERTAINMENT - USE IT FOR FUN !</b>
-
-https://UNVS.com
-
-Copyright (c) 2009-2014 Bitcoin Developers.
- 
-Copyright (c) 2011-2014 Litecoin Developers.  
-
-Copyright (c) 2023 UNVS Developers.
-
 
 
 **DESKTOP WALLET RELEASES**
@@ -93,9 +83,19 @@ It may be possible to jump ahead with your current fresh wallet install sync, by
 We will endevour to update this on a regular basis. The archive can be found here:
 
 https://github.com/UnvsCom/Chain-Archive-Snapshot-ZIP
-
+ 
 ✪ FINAL NOTES! ✪
 ----------------------------------------------
+WE ARE STILL IN DEVELOPMENT STAGES. USE AT YOUR OWN RISK. WE ACCEPT NO LIABILITY IN ANY INSTANCE & NO GUARANTEE NOR WARRANTY IS PROVIDED. DEVELOPED FOR ENTERTAINMENT - USE IT FOR FUN !</b>
+
+https://UNVS.com
+
+Copyright (c) 2009-2014 Bitcoin Developers.
+ 
+Copyright (c) 2011-2014 Litecoin Developers.  
+
+Copyright (c) 2023 UNVS Developers.
+
 
 **WITH ALL THAT BEING SAID, USE AT YOUR OWN RISK! THIS IS HIGHLY EXPERIMENTAL CRYPTOCURRENCY SOFTWARE FOR DEVELOPERS.
 PROVIDED WITHOUT ANY WARRANTY OR GUARANTEE AND WITHOUT ANY LIABILITY.**
