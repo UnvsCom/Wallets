@@ -1,7 +1,7 @@
 UNVS
 =============
 
-<b>✪ FOR ANY ANTIVIRUS ISSUES BLOCKING INSTALLATION OF MINER, SEE BOTTOM OF THIS GUIDE FOR REMEDY ✪
+<b>✪ FOR ANTIVIRUS ISSUES BLOCKING INSTALL OF MINER, SEE BOTTOM OF GUIDE TO REMEDY ✪
 
 
 PLEASE NOTE THIS IS STILL A HIGHLY EXPERIMENTAL PROJECT. 
@@ -18,7 +18,7 @@ Copyright (c) 2023 UNVS Developers.
 
 
 
-**COMPILED DESKTOP WALLET RELEASES**
+**DESKTOP WALLET RELEASES**
 ------------------------------------
 
 This repo contains our **Most Recent** compiled Windows 32bit Wallet & Linux Wallet releases.
