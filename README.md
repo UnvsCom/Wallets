@@ -16,13 +16,13 @@ These releases have all dependancies compiled within, therefore should run as no
 **✪✪ FOR WINDOWS 32BIT WALLET ✪✪**
 
 
-https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-win32-setup.exe
+https://github.com/UnvsCom/Wallets/raw/main/unvs-win32-setup.exe
 
 Install and allow through firewall if prompted.
 
 **✪✪ FOR LINUX WALLET ✪✪**
 
-https://github.com/UnvsCom/Current-Wallet-Releases/raw/main/unvs-qt-linux-setup
+https://github.com/UnvsCom/Wallets/raw/main/unvs-qt-linux-setup
 
 ✪ **On Linux 20.04 (Max Version), YOU NEED the Qt4 run-time libraries** to run the UNVS-Qt wallet program. On Debian or Ubuntu enter via terminal:
 
