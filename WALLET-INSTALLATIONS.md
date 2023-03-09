@@ -62,12 +62,6 @@ Once you are on the Desktop, click the Terminal icon to load terminal window and
 ```
 cd Desktop
 
-git clone --single-branch --branch v1.6 https://github.com/unvscom/unvs.git
-```
-ALTERNATIVELY
-```
-cd Desktop
-
 git clone https://github.com/unvscom/unvs.git
 ```
 
