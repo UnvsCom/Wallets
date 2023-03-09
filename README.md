@@ -71,9 +71,11 @@ For a PDF menu navigation guide, see here: https://github.com/UnvsCom/Current-Wa
 
 ✪ Also remember to read our Wallet Guides ✪
 ----------------------------------------------
-https://github.com/UnvsCom/unvs/blob/v1.6/WALLET-COMMANDS.md
 
-https://github.com/UnvsCom/unvs/blob/v1.6/WALLET-INSTALLATIONS.md
+https://github.com/UnvsCom/Wallets/blob/main/WALLET-COMMANDS.md
+
+https://github.com/UnvsCom/Wallets/blob/main/WALLET-INSTALLATIONS.md
+
 
 ✪ SPEEDING UP CHAIN SYNC ✪
 ----------------------------------------------
