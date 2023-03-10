@@ -45,6 +45,9 @@ sudo ufw allow 3389/tcp
 sudo ufw allow 2333/tcp
 
 sudo ufw allow 2332/tcp
+
+sudo ufw allow 61823/tcp
+
 ```
 
 
