@@ -19,13 +19,6 @@ These releases have all dependancies compiled within, therefore should run as no
 https://github.com/UnvsCom/Wallets/raw/main/unvs-win32-setup.exe
 
 Install and allow through firewall if prompted.
-```
-sudo ufw allow 3389/tcp
-
-sudo ufw allow 2333/tcp
-
-sudo ufw allow 2332/tcp
-```
 
 **✪✪ FOR LINUX WALLET ✪✪**
 
@@ -43,6 +36,17 @@ sudo apt-get install libqtgui4
 Both Wallets should auto sync via the hardcoded IP nodes and DNS Seeders. Do not add random untrusted IP nodes manually to speed up syncing! Only add our OFFICIAL IPs stated on our website at [UNVS.com/wallet-guide](https://www.unvs.com/wallet-guide)
 
 You can unzip our compressed **tar.gz** folders by utilizing: https://www.7-zip.org/download.html
+
+**✪✪ IN SOME CASES MAY NEED TO OPEN PORTS ✪✪**
+
+```
+sudo ufw allow 3389/tcp
+
+sudo ufw allow 2333/tcp
+
+sudo ufw allow 2332/tcp
+```
+
 
 ✪ 'COINMINER' ANTIVIRUS ISSUES - DOWNLOAD ISSUES SIDENOTE ✪
 --------
