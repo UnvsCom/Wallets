@@ -19,12 +19,13 @@ These releases have all dependancies compiled within, therefore should run as no
 https://github.com/UnvsCom/Wallets/raw/main/unvs-win32-setup.exe
 
 Install and allow through firewall if prompted.
+```
 sudo ufw allow 3389/tcp
 
 sudo ufw allow 2333/tcp
 
 sudo ufw allow 2332/tcp
-
+```
 
 **✪✪ FOR LINUX WALLET ✪✪**
 
