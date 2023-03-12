@@ -25,11 +25,6 @@ Not all have been tested and some may be depreciated, these have been compiled f
  # Use as many addnode= settings as you like to connect to specific peers in addition to ports.
  addnode=000.00.00 add
  addnode=000.00.00:9333 add
-
- # Maximum number of inbound+outbound connections.
- maxconnections=
- # Example 100 Connections accepted.
- maxconnections=100
  
  # =1 tells Wallet installation to accept JSON-RPC commands.
  server=1
