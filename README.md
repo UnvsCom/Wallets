@@ -89,7 +89,7 @@ https://github.com/UnvsCom/Wallets/blob/main/WALLET-COMMANDS.md
 
 https://github.com/UnvsCom/Wallets/blob/main/WALLET-INSTALLATIONS.md
 
-https://github.com/UnvsCom/Wallets/blob/main/CONF-FILE-EXAMPLES.md
+https://github.com/UnvsCom/Wallets/blob/main/conf-FILE-SETTINGS.md
 
 
 ✪ SPEEDING UP CHAIN SYNC ✪
