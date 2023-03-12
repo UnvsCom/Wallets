@@ -123,14 +123,19 @@ A full list of console commands will be listed, but the above list are the most 
 
 unvs.conf Wallet Folder File
 ----------------------------
-You can navigate to your wallets folder location and create a file named: unvs.conf
+You can extend your wallet client ability with adding additional settings. 
+
+Navigate to your wallet's folder location and create a file named: **unvs.conf**
 
 This can be done in a basic text editor. You can find an example of such file in our UNVS Git Repository.
 
 The following link provides a list of useful conf settings that you can set within your unvs.conf file.
 
-https://github.com/UnvsCom/Wallets/blob/main/CONF-FILE-EXAMPLES.md
+https://github.com/UnvsCom/Wallets/blob/main/conf-FILE-SETTINGS.md
 
+You can find a example of this file at:
+
+https://github.com/UnvsCom/Wallets/blob/main/conf-FILE-EXAMPLE
 
 
 
