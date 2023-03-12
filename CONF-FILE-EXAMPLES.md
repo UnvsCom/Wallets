@@ -28,7 +28,7 @@ Not all have been tested and some may be depreciated, these have been compiled f
 
  # Maximum number of inbound+outbound connections.
  maxconnections=
- # Example 100 Connecttions accepted
+ # Example 100 Connections accepted
  maxconnections=100
  
  # server=1 tells Wallet installation to accept JSON-RPC commands.
