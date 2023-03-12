@@ -8,7 +8,7 @@ WE ARE STILL IN DEVELOPMENT STAGES. USE AT YOUR OWN RISK. WE ACCEPT NO LIABILITY
 https://UNVS.com
 
 
-unvs.conf Wallet Folder Example Settings
+unvs.conf File (In Wallet Folder) Example Settings
 ----------------
 
 Below is a list of most commonly used **unvs.conf** file settings to help configure your wallet's abilities.
