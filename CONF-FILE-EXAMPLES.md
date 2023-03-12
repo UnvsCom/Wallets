@@ -48,7 +48,7 @@ Not all have been tested and some may be depreciated, these have been compiled f
  gen=0
  
  # Start Wallet client minimized.
- #min=1
+ min=1
  
  # Minimize to the system tray.
  minimizetotray=1 
