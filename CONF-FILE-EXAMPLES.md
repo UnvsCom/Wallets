@@ -22,7 +22,7 @@ Not all have been tested and some may be depreciated, these have been compiled f
  # Disable test network and run on the main network.
  testnet=0
  
- # Use as many addnode= settings as you like to connect to specific peers in addition to ports
+ # Use as many addnode= settings as you like to connect to specific peers in addition to ports.
  addnode=000.00.00 add
  addnode=000.00.00:9333 add
 
@@ -31,10 +31,10 @@ Not all have been tested and some may be depreciated, these have been compiled f
  # Example 100 Connections accepted
  maxconnections=100
  
- # server=1 tells Wallet installation to accept JSON-RPC commands.
+ # =1 tells Wallet installation to accept JSON-RPC commands.
  server=1
  
- # server=0 removes server behavior.
+ # =0 removes server behavior.
  server=0
  
  # You must set rpcuser and rpcpassword to secure the JSON-RPC api
