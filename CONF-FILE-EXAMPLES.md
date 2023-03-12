@@ -51,10 +51,7 @@ Not all have been tested and some may be depreciated, these have been compiled f
  #min=1
  
  # Minimize to the system tray.
- minimizetotray=1
- 
- 
- 
+ minimizetotray=1 
 ```
 
 Default configuration file locations
