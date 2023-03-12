@@ -41,7 +41,7 @@ Not all have been tested and some may be depreciated, these have been compiled f
  rpcuser=username
  rpcpassword=SetAPasswordHere
  
- # Set gen=1 to attempt to auto activate mining on wallet start.
+ # Set gen=1 to auto activate mining on wallet start.
  gen=1
  
  # Sets auto mining to off on wallet start.
