@@ -37,20 +37,20 @@ Not all have been tested and some may be depreciated, these have been compiled f
  # =0 removes server behavior.
  server=0
  
- # You must set rpcuser and rpcpassword to secure the JSON-RPC api
+ # You must set rpcuser and rpcpassword to secure the JSON-RPC api.
  rpcuser=username
  rpcpassword=SetAPasswordHere
  
- # Set gen=1 to attempt to auto activate mining on wallet start
+ # Set gen=1 to attempt to auto activate mining on wallet start.
  gen=1
  
- # Sets auto mining to off on wallet start
+ # Sets auto mining to off on wallet start.
  gen=0
  
- # Start Wallet client minimized
+ # Start Wallet client minimized.
  #min=1
  
- # Minimize to the system tray
+ # Minimize to the system tray.
  minimizetotray=1
  
  
