@@ -61,10 +61,10 @@ Default configuration file locations
 -----------------------------------
 
 Operating System	Data Directory	Example Path
-Windows	%APPDATA%\unvs\	
-C:\Users\username\AppData\Roaming\unvs\unvs.conf
 
-Linux	$HOME/.bitcoin/	/home/username/.unvs/unvs.conf
+Windows	%APPDATA%\unvs\	
+
+Linux	$HOME/.unvs/
 
 
 
